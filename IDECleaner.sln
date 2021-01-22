@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDECleaner", "IDECleaner\IDECleaner.csproj", "{56DD89D5-5822-4DA6-B958-EA93D79A852E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56DD89D5-5822-4DA6-B958-EA93D79A852E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DD89D5-5822-4DA6-B958-EA93D79A852E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DD89D5-5822-4DA6-B958-EA93D79A852E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DD89D5-5822-4DA6-B958-EA93D79A852E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277D5839-90ED-4414-9186-724990409550}
+	EndGlobalSection
+EndGlobal
